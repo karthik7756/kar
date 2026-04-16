@@ -1,4 +1,3 @@
-hi 
-how r u
-wht r u doing
-
+hello
+i m missing uh
+where r u
